@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "BKLYNR developers"
-AuthUserFile "/home/bklynrco/.htpasswds/public_html/developers/passwd"
-require valid-user
